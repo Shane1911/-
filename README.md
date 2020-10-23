@@ -1,4 +1,4 @@
-# -
+# ResNet
 python
 1.轴承数据来源：西储大学数据库
 2.检测模型：RestNet-改进
